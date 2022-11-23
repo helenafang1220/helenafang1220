@@ -3,6 +3,7 @@
 - 💞️ I also enjoy visual design and communication. (Adobe Illustraion/Photoshop/html/css/p5.js)
 - 🧋 Taiwanese Bubble Tea Addiction
 - 📫 Reach me via email : hsifangchen.tw@gmail.com
+- 🖥 Visit my webpage : <a href="https://helenafang1220.github.io/porfolio_webpage/index.html">Here</a>
 - 🐰 My avatar on Instagram : iamfangcheno_o
 
 <!---
